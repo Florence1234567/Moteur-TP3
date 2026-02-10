@@ -5,15 +5,20 @@ class GObject {
 public:
     virtual ~GObject() = default;
 
+    std::string StaticType() const
+    {
+        return "GObject";
+    }
+    
     virtual std::string GetType() const
     {
         return "GObject";
-    };
+    }
 
     virtual bool IsTypeOf(const std::string& name) const
     {
-        return GetType() == name;
-    };
+        return StaticType() == name;
+    }
 };
 
 #define GENERATE_REFLECTION(ClassName, ParentClass) \

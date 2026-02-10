@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\H2026 Moteurs et performances\\Moteur-TP3\\TP3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5744E52-2551-4301-9F4C-9D8355881C02}|TP3.vcxproj|C:\\H2026 Moteurs et performances\\Moteur-TP3\\TP3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5744E52-2551-4301-9F4C-9D8355881C02}|TP3.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5744E52-2551-4301-9F4C-9D8355881C02}|TP3.vcxproj|C:\\H2026 Moteurs et performances\\Moteur-TP3\\TP3\\GObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5744E52-2551-4301-9F4C-9D8355881C02}|TP3.vcxproj|solutionrelative:GObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5744E52-2551-4301-9F4C-9D8355881C02}|TP3.vcxproj|C:\\H2026 Moteurs et performances\\Moteur-TP3\\TP3\\GDog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5744E52-2551-4301-9F4C-9D8355881C02}|TP3.vcxproj|solutionrelative:GDog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5744E52-2551-4301-9F4C-9D8355881C02}|TP3.vcxproj|C:\\H2026 Moteurs et performances\\Moteur-TP3\\TP3\\GCat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5744E52-2551-4301-9F4C-9D8355881C02}|TP3.vcxproj|solutionrelative:GCat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5744E52-2551-4301-9F4C-9D8355881C02}|TP3.vcxproj|C:\\H2026 Moteurs et performances\\Moteur-TP3\\TP3\\GAnimal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5744E52-2551-4301-9F4C-9D8355881C02}|TP3.vcxproj|solutionrelative:GAnimal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5744E52-2551-4301-9F4C-9D8355881C02}|TP3.vcxproj|C:\\H2026 Moteurs et performances\\Moteur-TP3\\TP3\\GObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5744E52-2551-4301-9F4C-9D8355881C02}|TP3.vcxproj|solutionrelative:GObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5744E52-2551-4301-9F4C-9D8355881C02}|TP3.vcxproj|C:\\H2026 Moteurs et performances\\Moteur-TP3\\TP3\\GCat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5744E52-2551-4301-9F4C-9D8355881C02}|TP3.vcxproj|solutionrelative:GCat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5744E52-2551-4301-9F4C-9D8355881C02}|TP3.vcxproj|C:\\H2026 Moteurs et performances\\Moteur-TP3\\TP3\\GDog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5744E52-2551-4301-9F4C-9D8355881C02}|TP3.vcxproj|solutionrelative:GDog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5744E52-2551-4301-9F4C-9D8355881C02}|TP3.vcxproj|C:\\H2026 Moteurs et performances\\Moteur-TP3\\TP3\\GAnimal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5744E52-2551-4301-9F4C-9D8355881C02}|TP3.vcxproj|solutionrelative:GAnimal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GDog.h",
+              "DocumentMoniker": "C:\\H2026 Moteurs et performances\\Moteur-TP3\\TP3\\GDog.h",
+              "RelativeDocumentMoniker": "GDog.h",
+              "ToolTip": "C:\\H2026 Moteurs et performances\\Moteur-TP3\\TP3\\GDog.h",
+              "RelativeToolTip": "GDog.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-07T22:12:15.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GObject.cpp",
+              "DocumentMoniker": "C:\\H2026 Moteurs et performances\\Moteur-TP3\\TP3\\GObject.cpp",
+              "RelativeDocumentMoniker": "GObject.cpp",
+              "ToolTip": "C:\\H2026 Moteurs et performances\\Moteur-TP3\\TP3\\GObject.cpp",
+              "RelativeToolTip": "GObject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-07T22:02:53.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GAnimal.h",
+              "DocumentMoniker": "C:\\H2026 Moteurs et performances\\Moteur-TP3\\TP3\\GAnimal.h",
+              "RelativeDocumentMoniker": "GAnimal.h",
+              "ToolTip": "C:\\H2026 Moteurs et performances\\Moteur-TP3\\TP3\\GAnimal.h",
+              "RelativeToolTip": "GAnimal.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-07T22:11:44.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GCat.h",
+              "DocumentMoniker": "C:\\H2026 Moteurs et performances\\Moteur-TP3\\TP3\\GCat.h",
+              "RelativeDocumentMoniker": "GCat.h",
+              "ToolTip": "C:\\H2026 Moteurs et performances\\Moteur-TP3\\TP3\\GCat.h",
+              "RelativeToolTip": "GCat.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-07T22:11:59.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\H2026 Moteurs et performances\\Moteur-TP3\\TP3\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\H2026 Moteurs et performances\\Moteur-TP3\\TP3\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-07T22:02:33.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GObject.h",
+              "DocumentMoniker": "C:\\H2026 Moteurs et performances\\Moteur-TP3\\TP3\\GObject.h",
+              "RelativeDocumentMoniker": "GObject.h",
+              "ToolTip": "C:\\H2026 Moteurs et performances\\Moteur-TP3\\TP3\\GObject.h",
+              "RelativeToolTip": "GObject.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-07T22:03:03.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GCat.cpp",
+              "DocumentMoniker": "C:\\H2026 Moteurs et performances\\Moteur-TP3\\TP3\\GCat.cpp",
+              "RelativeDocumentMoniker": "GCat.cpp",
+              "ToolTip": "C:\\H2026 Moteurs et performances\\Moteur-TP3\\TP3\\GCat.cpp",
+              "RelativeToolTip": "GCat.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-07T22:12:27.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GDog.cpp",
+              "DocumentMoniker": "C:\\H2026 Moteurs et performances\\Moteur-TP3\\TP3\\GDog.cpp",
+              "RelativeDocumentMoniker": "GDog.cpp",
+              "ToolTip": "C:\\H2026 Moteurs et performances\\Moteur-TP3\\TP3\\GDog.cpp",
+              "RelativeToolTip": "GDog.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-07T22:12:46.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GAnimal.cpp",
+              "DocumentMoniker": "C:\\H2026 Moteurs et performances\\Moteur-TP3\\TP3\\GAnimal.cpp",
+              "RelativeDocumentMoniker": "GAnimal.cpp",
+              "ToolTip": "C:\\H2026 Moteurs et performances\\Moteur-TP3\\TP3\\GAnimal.cpp",
+              "RelativeToolTip": "GAnimal.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-07T22:11:31.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
